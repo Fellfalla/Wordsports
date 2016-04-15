@@ -1,2 +1,2 @@
-python27 "Wortsport v3.py"
+python27 "Wordsports.py"
 pause
